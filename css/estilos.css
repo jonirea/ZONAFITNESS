@@ -277,15 +277,6 @@ footer{
   line-height: 60px;
 }
 
-.line{  
-  width: 90%;
-  max-width: 1200px;
-  margin: 0 auto;
-  height: 2px;
-  background: #fff;
-  margin-bottom: 60px;
-}
-
 .second-footer{ 
   border-top: 1px solid #aadcd2;
   text-align: center;
